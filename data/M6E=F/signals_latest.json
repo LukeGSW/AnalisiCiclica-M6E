@@ -3,10 +3,10 @@
   "signal": "HOLD",
   "position": "LONG",
   "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
-  "phase_value": -1.6023361552535285,
+  "phase_value": -1.6023361552535282,
   "oscillator_value": -0.0011649996042251143,
-  "signal_strength": 45.77815445898534,
+  "signal_strength": 45.77815445899839,
   "confidence": "MEDIUM",
   "price": 1.163599967956543,
-  "timestamp": "2025-08-26T19:25:55.203223"
+  "timestamp": "2025-08-26T21:33:53.866094"
 }
