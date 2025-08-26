@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-25",
+  "signal": "HOLD",
+  "position": "FLAT",
+  "phase_quadrant": "Quadrante 4 (Discesa -> Minimo)",
+  "phase_value": 1.6833008439033106,
+  "oscillator_value": -0.0011649996042251143,
+  "signal_strength": 20.985622520356944,
+  "confidence": "LOW",
+  "price": 1.163599967956543,
+  "timestamp": "2025-08-26T19:01:10.715474"
+}
