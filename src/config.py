@@ -20,8 +20,8 @@ def get_ticker():
     if env_ticker:
         return env_ticker.upper()
     
-    # Default - VIX Index
-    return '^VIX'
+    # Default - EURO FUTURE
+    return '^M6E=F'
 
 class Config:
     """Central configuration class for the trading system"""
