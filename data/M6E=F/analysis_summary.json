@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-10-09T21:33:47.210368",
+  "timestamp": "2025-10-10T21:33:16.680392",
   "ticker": "M6E=F",
-  "data_points": 4127,
+  "data_points": 4128,
   "latest_signal": {
-    "date": "2025-10-08",
+    "date": "2025-10-09",
     "signal": "HOLD",
     "position": "LONG",
     "phase_quadrant": "Quadrante 2 (Salita -> Picco)",
-    "phase_value": -1.523819413288247,
-    "oscillator_value": 0.0014112681150437734,
-    "signal_strength": 35.72439990992516,
+    "phase_value": -1.552227914156189,
+    "oscillator_value": 0.0005787640810013261,
+    "signal_strength": 37.014352239327096,
     "confidence": "MEDIUM",
-    "price": 1.1664999723434448,
-    "timestamp": "2025-10-09T21:33:45.409557"
+    "price": 1.1588000059127808,
+    "timestamp": "2025-10-10T21:33:15.021696"
   },
   "backtest_metrics": {
-    "total_return_%": 34.58662267194006,
-    "max_drawdown_%": 1.6789932654688977,
-    "sharpe_ratio": 1.1960341645834967,
-    "sortino_ratio": 0.5769826909199666,
-    "calmar_ratio": 3.6753171068861934,
-    "total_trades": 17,
-    "win_rate_%": 82.35294117647058,
-    "profit_factor": 20.949916182137624
+    "total_return_%": 31.827765519889706,
+    "max_drawdown_%": 1.723264893213037,
+    "sharpe_ratio": 1.121199441391923,
+    "sortino_ratio": 0.5236293893109422,
+    "calmar_ratio": 3.3353099885644273,
+    "total_trades": 16,
+    "win_rate_%": 81.25,
+    "profit_factor": 19.395975662389173
   },
   "cycle_analysis": {
     "dominant_period": 126.0,
