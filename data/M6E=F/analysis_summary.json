@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-27T21:34:39.546304",
+  "timestamp": "2025-11-28T21:34:45.479085",
   "ticker": "M6E=F",
   "data_points": 4160,
   "latest_signal": {
@@ -12,7 +12,7 @@
     "signal_strength": 58.85323786048321,
     "confidence": "MEDIUM",
     "price": 1.154099941253662,
-    "timestamp": "2025-11-27T21:34:37.721399"
+    "timestamp": "2025-11-28T21:34:43.860502"
   },
   "backtest_metrics": {
     "total_return_%": 32.03093889210098,
