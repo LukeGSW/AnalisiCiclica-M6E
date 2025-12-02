@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-01T21:33:05.193599",
+  "timestamp": "2025-12-02T21:36:01.183042",
   "ticker": "M6E=F",
   "data_points": 4160,
   "latest_signal": {
@@ -9,10 +9,10 @@
     "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
     "phase_value": -1.674595032680023,
     "oscillator_value": -0.004935023188591181,
-    "signal_strength": 58.85323786048321,
+    "signal_strength": 58.8532378604948,
     "confidence": "MEDIUM",
     "price": 1.154099941253662,
-    "timestamp": "2025-12-01T21:33:03.601853"
+    "timestamp": "2025-12-02T21:35:59.678293"
   },
   "backtest_metrics": {
     "total_return_%": 32.03093889210098,
