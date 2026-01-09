@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-01-08T21:41:07.561268",
+  "timestamp": "2026-01-09T21:39:36.428738",
   "ticker": "M6E=F",
-  "data_points": 4189,
+  "data_points": 4190,
   "latest_signal": {
-    "date": "2026-01-07",
+    "date": "2026-01-08",
     "signal": "HOLD",
     "position": "LONG",
     "phase_quadrant": "Quadrante 2 (Salita -> Picco)",
-    "phase_value": -1.2119472539506395,
-    "oscillator_value": 0.009607502818107516,
-    "signal_strength": 32.948850636534324,
+    "phase_value": -1.2800419335868982,
+    "oscillator_value": 0.007852506637573198,
+    "signal_strength": 32.76162585223113,
     "confidence": "MEDIUM",
-    "price": 1.1720000505447388,
-    "timestamp": "2026-01-08T21:41:05.794671"
+    "price": 1.1685999631881714,
+    "timestamp": "2026-01-09T21:39:34.978771"
   },
   "backtest_metrics": {
     "total_return_%": 33.09584295670922,
